@@ -1,0 +1,4 @@
+Starting ChromeDriver 70.0.3538.97 (d035916fe243477005bc95fe2a5778b8f20b6ae1) on port 9515
+Only local connections are allowed.
+[1544147035.750][SEVERE]: bind() returned an error, errno=48: Address already in use (48)
+IPv4 port not available. Exiting...
